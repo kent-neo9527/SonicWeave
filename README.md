@@ -82,37 +82,20 @@ Recommended screenshot types:
 
 ## Video Demos
 
-Add your three YouTube links here. If you want, you can later rename the labels to match each video.
 
 ### Demo 1
 
 [Watch Demo 1 on YouTube](https://youtu.be/LjFfWSmjYf4)
 
 
-> A quick overview of the SonicWeave workflow, from importing audio to building a layered music visualization scene.
-
 ### Demo 2
 
 [Watch Demo 2 on YouTube](https://youtube.com/shorts/jWxEp3SKRxU?feature=share)
 
 
-> A showcase of audio-reactive effects, music-driven motion, and parameter tuning across different visual styles.
-
 ### Demo 3
 
 [Watch Demo 3 on YouTube](https://youtube.com/shorts/MpQpa12dFZc?feature=share)
-
-Suggested description:
-
-> A polished example of a finished visual composition for social media, promo content, or music branding.
-
-Tip:
-
-- use one workflow video
-- use one effect showcase video
-- use one finished export or montage video
-
----
 
 ## Core Features
 
