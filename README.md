@@ -264,24 +264,3 @@ SonicWeave is built with:
 ## Short Pitch
 
 SonicWeave is a desktop editor for audio visualization, music visualization, and music-reactive visual effects. It helps creators build layered, polished, sound-driven visuals for promo content, live visuals, social clips, and experimental motion graphics.
-
----
-
-## Replace Guide
-
-Before uploading this to GitHub, replace:
-
-- `./assets/github/hero-main.png`
-- `./assets/github/screen-editor-workflow.png`
-- `./assets/github/screen-layered-effects.png`
-- `./assets/github/screen-parameters-mapping.png`
-- `./assets/github/screen-cinematic-example.png`
-- `PASTE_YOUR_VIDEO_URL_HERE_1`
-- `PASTE_YOUR_VIDEO_URL_HERE_2`
-- `PASTE_YOUR_VIDEO_URL_HERE_3`
-
-If you want, I can next help you with one of these:
-
-1. convert this into your final `README.md`
-2. write the three video titles and descriptions once you send the YouTube URLs
-3. turn this into a more sales-focused Gumroad product description
