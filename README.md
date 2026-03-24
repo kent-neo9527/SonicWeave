@@ -10,20 +10,8 @@ It combines real-time audio analysis, layered visual composition, and a growing 
 
 ## Hero Shot
 
-Replace the image path below with your best product screenshot or banner image.
 
 ![SonicWeave Hero](./assets/github/hero-main.png)
-
-Suggested hero content:
-
-- show the editor UI clearly
-- include one strong music-reactive scene
-- keep the left effects panel and right parameter panel visible
-- use a vertical project or a dramatic cinematic effect so the product reads instantly
-
-Suggested caption:
-
-> Build layered, music-reactive visuals in real time.
 
 ---
 
